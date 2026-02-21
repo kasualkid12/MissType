@@ -1,0 +1,13 @@
+{
+  "Name": "Miss Type",
+  "Author": "You",
+  "Punchline": "Prevent accidentally sending messages to the wrong chat channel.",
+  "Description": "Limits which chat channels you can type in (e.g. block FC chat while RPing). Use /misstype or /mt to open settings.",
+  "RepoUrl": "https://github.com/yourusername/MissType",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "chat",
+    "utility",
+    "mt"
+  ]
+}
